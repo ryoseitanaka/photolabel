@@ -1,0 +1,97 @@
+main {
+  width: 1080px;
+  height: 1000px;
+  margin: 0 auto;
+}
+
+.logoImg {
+  /* width: 183px; */
+  height: 174px;
+  display: flex;
+  justify-content: center;
+  margin-top: 70px;
+}
+
+.login {
+  display: flex;
+  justify-content: center;
+}
+.userName {
+  height: 70px;
+  width: 530px;
+  border: 1px solid rgb(149, 149, 149);
+  border-radius: 10px;
+  font-size: 28px;
+  padding-left: 20px;
+  /* margin-left: 270px; */
+  margin-top: 50px;
+}
+
+.pass {
+  height: 70px;
+  width: 530px;
+  border: 1px solid rgb(149, 149, 149);
+  border-radius: 10px;
+  font-size: 28px;
+  padding-left: 20px;
+  /* margin-left: 270px; */
+  margin-top: 30px;
+}
+.Btn {
+  display: flex;
+  justify-content: center;
+}
+.loginBtn {
+  height: 70px;
+  width: 530px;
+  border-radius: 50px;
+  background-color: #87cefa;
+  text-align: center;
+  line-height: 70px;
+  margin-top: 50px;
+  font-size: 25px;
+  color: #fff;
+}
+
+p {
+  font-size: 35px;
+  text-align: center;
+  border-top: solid 1px #707070;
+  margin-top: 90px;
+  padding-top: 50px;
+}
+
+.Btn {
+  display: flex;
+  justify-content: center;
+}
+.Btn a {
+  text-decoration: none;
+}
+.newBtn {
+  height: 70px;
+  width: 530px;
+  border-radius: 50px;
+  background-color: #b8dba3;
+  text-align: center;
+  line-height: 70px;
+  margin-top: 50px;
+  font-size: 25px;
+  color: #fff;
+}
+
+.information {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 50px;
+}
+.information a {
+  text-decoration: none;
+  list-style: none;
+  color: #707070;
+  font-size: 25px;
+}
+
+.information a:hover {
+  color: #a0a0a0;
+}
